@@ -33,7 +33,7 @@ Ahora mismo soy estudiante en 42 Madrid, donde estoy desarrollando nuevas capaci
 
 3. **[Ft_Printf()]**
    - ft_printf es una reimplementación propia de la famosa y versátil función printf() de la biblioteca estándar de C.
-   - [https://github.com/DaNNy0o0/CRM-Clientes-React](https://github.com/DaNNy0o0/Ft_printf)
+   - https://github.com/DaNNy0o0/Ft_printf
    
 
 ### Certificaciones 

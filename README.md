@@ -7,11 +7,16 @@
 Soy Daniel, un desarrollador de aplicaciones y páginas web, con conocimientos lenguajes aplicables a la creación, tanto de páginas como de aplicaciones, web. Actualmente, trabajo en otro sector no relacionado con la programación, pero con ganas de cambiar de sector.
 
 ### Sobre mí
-Se lo dificil que es crear y llevar una empresa, con su problemática diaria. Considero que tengo capacidad creativa para dar un enfoque en los diseños, en la resolución de problemas y en la entrega de soluciones de alta calidad. Disfruto trabajando y colaborando con compañeros.
+Se lo difícil que es crear y llevar una empresa, con su problemática diaria. Considero que tengo capacidad creativa para dar un enfoque en los diseños, en la resolución de problemas y en la entrega de soluciones de alta calidad. Disfruto trabajando y colaborando con compañeros.
+
+### Actualidad
+Ahora mismo soy estudiante en 42 Madrid, donde estoy desarrollando nuevas capacidades, conociendo nuevos lenguajes y formas de aprendizaje
 
 ### Skills
 - [HTML]
 - [CSS]
+- [C] - Aprendiendo actualmente
+- [Shell] - Aprendiendo actualmente
 - [JavaScript]
 - [React]
 - [NextJS] - Aprendiendo actualmente
@@ -25,6 +30,11 @@ Se lo dificil que es crear y llevar una empresa, con su problemática diaria. Co
 2. **[CRM de clientes]**
    - CRM de clientes. Uso de componentes personalizados, routing dinámico con React Router DOM, consultas API, etc. Incluye la creación de una "FakeAPI" para consultar datos.
    - https://github.com/DaNNy0o0/CRM-Clientes-React
+
+3. **[Ft_Printf()]**
+   - ft_printf es una reimplementación propia de la famosa y versátil función printf() de la biblioteca estándar de C.
+   - [https://github.com/DaNNy0o0/CRM-Clientes-React](https://github.com/DaNNy0o0/Ft_printf)
+   
 
 ### Certificaciones 
 #### - HTML, CSS, JavaScript y React: 

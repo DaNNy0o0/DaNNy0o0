@@ -23,15 +23,19 @@ Ahora mismo soy estudiante en 42 Madrid, donde estoy desarrollando nuevas capaci
 
 ### Proyectos Destacados
 
-1. **[React Quizz App]**
+1. **[Libft]**
+   - Libft es un proyecto de la escuela 42 que consiste en crear una librería en C con un conjunto de funciones de propósito general.
+   - (https://github.com/DaNNy0o0/libft_42)
+  
+2. **[React Quizz App]**
    - App con preguntas soobre React, con límitte de tiempo en las respuestas y resumen de porcentajes acierto/error. Gestión de estados, manejo de Hooks y creación de componentes personalizados, entre otros.
    - https://github.com/DaNNy0o0/React-Quizz-App
 
-2. **[CRM de clientes]**
+3. **[CRM de clientes]**
    - CRM de clientes. Uso de componentes personalizados, routing dinámico con React Router DOM, consultas API, etc. Incluye la creación de una "FakeAPI" para consultar datos.
    - https://github.com/DaNNy0o0/CRM-Clientes-React
 
-3. **[Ft_Printf()]**
+4. **[Ft_Printf()]**
    - ft_printf es una reimplementación propia de la famosa y versátil función printf() de la biblioteca estándar de C.
    - https://github.com/DaNNy0o0/Ft_printf
    

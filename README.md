@@ -25,7 +25,7 @@ Ahora mismo soy estudiante en 42 Madrid, donde estoy desarrollando nuevas capaci
 
 1. **[Libft]**
    - Libft es un proyecto de la escuela 42 que consiste en crear una librería en C con un conjunto de funciones de propósito general.
-   - (https://github.com/DaNNy0o0/libft_42)
+   - https://github.com/DaNNy0o0/libft_42
   
 2. **[React Quizz App]**
    - App con preguntas soobre React, con límitte de tiempo en las respuestas y resumen de porcentajes acierto/error. Gestión de estados, manejo de Hooks y creación de componentes personalizados, entre otros.

@@ -53,9 +53,6 @@ Ahora mismo soy estudiante en 42 Madrid, donde estoy desarrollando nuevas capaci
 · ChatGPT: Creación de prompts personalizados y destinados a sacar el máximo rendimiento posible a esta herramienta.
 · Midjourney: Creación de prompts personalizados, tanto para creación de imágenes como para retoques.
 
-### Enlaces
-** PENDIENTE DE AÑADIR! 😁 **
-
 ### Contacto
 - Correo electrónico: danieldiaz48@gmail.com
 - LinkedIn: https://www.linkedin.com/in/daniel-d%C3%ADaz-3b277523b/
